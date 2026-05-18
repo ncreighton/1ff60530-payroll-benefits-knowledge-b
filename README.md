@@ -1,0 +1,2 @@
+# 1ff60530-payroll-benefits-knowledge-b
+Searchable FAQ, auto-responses to common questions, and contribution tracking. Community-maintained knowledge that reduces repetitive questions.
